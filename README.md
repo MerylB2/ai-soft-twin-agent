@@ -57,6 +57,8 @@ The initial architecture is expected to include:
 - `experiments/`: training, evaluation, and reproducible runs
 - `docs/`: notes, diagrams, and experiment summaries
 
+See [architecture notes](./docs/architecture.md) for the initial structure and pipeline.
+
 ## Concepts Explored
 
 - Soft robotics simulation
